@@ -5,5 +5,4 @@
 - 👀 I'm interested in Software Development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: liu.tianj@northeastern.edu
-- 👨‍💻 All of my experiences are available at http://jjing2023.github.io
 
